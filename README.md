@@ -15,7 +15,7 @@ The velocity was solved using the pressure projected method outlined in the cour
 The discretisations for each of the terms was performed based on the method outlined in the course notes as well as that which was submitted in the author’s Assignment 3A.
 
 ## Notes on Coding
-I had no experience in object-oriented programming when doing this course and therefore wrote the "functions" section of the code which identifies the location of each cell in a very inefficient manner. I knew this section of the program could be greatly improved but was running out of time for the project so I used if statements to cover each case.
+I had no experience in object-oriented programming when doing this course and therefore wrote the "functions" section of the code which identifies the location of each node in a very inefficient manner. I knew this section of the program could be greatly improved but was running out of time for the project so I used multiple "if" statements to cover each case.
 
 ## Disclaimer
 The "plotter" program was written by the supervisor for the course and is the property of UCT and therefore cannot be posted here.
